@@ -23,7 +23,7 @@ Omnifood is a fictional AI-powered food delivery service offering healthy, custo
 
 - HTML5
 - CSS3 (Flexbox, Grid, Media Queries)
-- Mobile-first design principles
+- Fully Responisve website
 - BEM (Block Element Modifier) naming convention
 
 ## 📁 Folder Structure
